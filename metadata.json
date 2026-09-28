@@ -1,0 +1,6 @@
+{
+  "name": "ALIF TEKNIK - Servis AC Rumah Tangga",
+  "description": "Layanan cuci AC, isi freon, serta perbaikan AC profesional untuk rumah tangga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
